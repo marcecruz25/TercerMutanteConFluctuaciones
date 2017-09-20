@@ -1,8 +1,0 @@
-com/example/mutanteMarceloCruz/view/Stats.class
-com/example/mutanteMarceloCruz/services/MutanteService.class
-com/example/mutanteMarceloCruz/controller/MutanteController.class
-com/example/mutanteMarceloCruz/MutanteMarceloCruzApplication.class
-com/example/mutanteMarceloCruz/domain/Humano$HumanoBuilder.class
-com/example/mutanteMarceloCruz/services/impl/MutanteServiceImpl.class
-com/example/mutanteMarceloCruz/domain/Humano.class
-com/example/mutanteMarceloCruz/repository/HumanoRepository.class
